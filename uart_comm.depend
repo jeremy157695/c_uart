@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1466929566 source:d:\coding\c_language\uart_comm\uart_comm\rs232.c
+	"rs232.h"
+
+1466929566 d:\coding\c_language\uart_comm\uart_comm\rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<windows.h>
+
+1587959160 source:d:\coding\c_language\uart_comm\uart_comm\uart_tx.c
+	<stdlib.h>
+	<stdio.h>
+	<Windows.h>
+	<unistd.h>
+	"rs232.h"
+	<ctype.h>
+	<time.h>
+	<pthread.h>
+
